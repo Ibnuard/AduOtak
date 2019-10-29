@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "960997277555",
+    "firebase_url": "https://class-challenge.firebaseio.com",
+    "project_id": "class-challenge",
+    "storage_bucket": "class-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:960997277555:android:caf11121635a0ebeb18f06",
+        "android_client_info": {
+          "package_name": "com.ibnuputra.classchallenges"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "960997277555-ddqtq1ett49vsirojdci8jhs63cfitcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9lkNEhc-ag2hOHorMsEXrnobokStCPcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "960997277555-ddqtq1ett49vsirojdci8jhs63cfitcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
